@@ -20,7 +20,7 @@
 
 在运行之前，您需要配置 DeepSeek 的 API 密钥。
 
-打开 `src/main/resources/config.properties-example` 文件，修改以下配置，并重命名文件`src/main/resources/config.properties`：
+打开 `src/main/resources/config.properties-example` 文件复制一份为 `config.properties` ，填入你自己的配置：
 
 ```properties
 # DeepSeek API Configuration
