@@ -1,0 +1,23 @@
+# DeepSeek API Configuration
+# 修改为私有api密钥后重命名配置文件
+deepseek.api.key=sk-xxx
+deepseek.api.url=https://api.deepseek.com/v1/chat/completions
+deepseek.model=deepseek-chat
+deepseek.max_tokens=500
+deepseek.temperature=0.7
+
+# System Configuration
+system.name=DeepSeekClient
+system.version=1.0.0
+system.max.session=1000
+
+# Session Configuration
+session.timeout.minutes=30
+session.max.message=1000
+
+# History
+history.enable=true
+history.auto.cleanup.days=30
+
+# Provider
+ai.provider=deepseek
