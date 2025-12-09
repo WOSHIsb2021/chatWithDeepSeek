@@ -47,6 +47,9 @@ mvn exec:java -Dexec.mainClass="org.example.ConsoleMain"
 
 或者，如果您使用 IntelliJ IDEA 或 VS Code，可以直接打开 `src/main/java/org/example/ConsoleMain.java` 并点击运行按钮。
 
+运行结果样例：
+![运行结果截图](assets/image.png)
+
 ## 📂 项目结构
 
 ```text
